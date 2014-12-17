@@ -1,0 +1,6 @@
+C:\Users\Jeejee\Desktop\Koulu\C++\Laskin1\Laskin1\bin\Debug\Laskin1.exe.config
+C:\Users\Jeejee\Desktop\Koulu\C++\Laskin1\Laskin1\obj\Debug\Laskin1.csprojResolveAssemblyReference.cache
+C:\Users\Jeejee\Desktop\Koulu\C++\Laskin1\Laskin1\bin\Debug\Laskin1.exe
+C:\Users\Jeejee\Desktop\Koulu\C++\Laskin1\Laskin1\bin\Debug\Laskin1.pdb
+C:\Users\Jeejee\Desktop\Koulu\C++\Laskin1\Laskin1\obj\Debug\Laskin1.exe
+C:\Users\Jeejee\Desktop\Koulu\C++\Laskin1\Laskin1\obj\Debug\Laskin1.pdb
